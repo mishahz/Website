@@ -1,5 +1,6 @@
 # 🌸 Velvet Petal Café-AI-Powered Website Creation
-
+# 🌐 Live Demo
+https://velvet-petal-caf-iauh.bolt.host/
 # 📖 Project Overview
 
 **Velvet Petal Café** is a fictional boutique café website created as part of a first-semester Generative AI course project. The project demonstrates how Generative AI tools can help beginners transform a simple idea into a visually appealing, responsive website using natural-language prompts instead of writing all the code manually.
